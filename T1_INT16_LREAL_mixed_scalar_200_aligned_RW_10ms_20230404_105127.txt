@@ -1,0 +1,129 @@
+=== 시뮬레이션 (경과 시간: 10 초) ===
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 200 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 201 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 202 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 203 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 204 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 205 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 206 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 207 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 208 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 209 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 210 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 211 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 212 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 213 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 214 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 215 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 216 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 217 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 218 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 219 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 220 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 221 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 222 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 223 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 224 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 225 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 226 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 227 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 228 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 229 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 230 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 231 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 232 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 233 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 234 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 235 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 236 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 237 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 238 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 239 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 240 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 241 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 242 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 243 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 244 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 245 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 246 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 247 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 248 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 249 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 250 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 251 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 252 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 253 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 254 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 255 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 256 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 257 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 258 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 259 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 260 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 261 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 262 for data type id 16
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid data type id -10
+    오류:'T1_INT16_LREAL_mixed_scalar_200_aligned_RW_10ms/SimConn - W' attempts to use invalid element index 263 for data type id 16
+    오류:Too many errors.
