@@ -15,10 +15,10 @@ pause_time = 2;      %pause time between tests
 % load propriate Connection Variable
 %--------------------------------------------------------------------
 %load M1_connVar_192_0_2_230.mat %connection to any M1 PLC, no login data
-load M1_connVar_192_168_0_153_R2.mat %connection to any M1 PLC, no login data
+%load M1_connVar_192_168_0_153_R2.mat %connection to any M1 PLC, no login data
 
 %--------------------------------------------------------------------
 % load bus definition
 %--------------------------------------------------------------------
-load Bus_exchange.mat %bus definition for data exchange via structure
+%load Bus_exchange.mat %bus definition for data exchange via structure
 load SiLSBus4.mat
